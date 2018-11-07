@@ -1,0 +1,136 @@
+"ID","name","realname","team","tryoutTeam","isOTPlayer","overtrackID","battleTag","pic","twitter","facebook","twitch","instagram","youtube","weibo","discord","about","role","country","isSubstitute","favTeam","skillRating"
+"38","Gamsu","Noh Yeong-jin","318","318","0",NULL,NULL,"/pics/players/owl_gamsu.png","https://twitter.com/Gamsulol",,"https://www.twitch.tv/gamsu8898",,,,,,"Tank","South Korea","0",NULL,NULL
+"372","Striker","Kwon Nam-Joo","318","318","0",NULL,NULL,"/pics/players/owl_striker.png",,,,,,,,,"Offense","South Korea","0",NULL,NULL
+"581","Kellex","Kristian Keller","318","318","0",NULL,NULL,"/pics/players/owl_kellex.png","http://twitter.com/KellexOW",,,,,,,,"Support","Denmark","0",NULL,NULL
+"595","Avast","Connor Prince","318","318","0",NULL,NULL,"/pics/players/avast.png",,,,,,,,,"Support","USA","1",NULL,NULL
+"596","DreamKazper","Jonathan Sanchez",NULL,"318","0",NULL,NULL,"/pics/players/owl_dreamkazper.png","https://twitter.com/DreamKazper",,"https://www.twitch.tv/dreamkazper",,,,,,"Offense","USA","0",NULL,NULL
+"962","NotE","Lucas Meissner","318","318","0",NULL,NULL,"/pics/players/owl_note.png","https://twitter.com/NotEvenBleu",,"https://www.twitch.tv/NotEvenBleu",,,,,,"Tank","Canada","0",NULL,NULL
+"963","Snow","Mikias Yohannes","318",NULL,"0",NULL,NULL,"/pics/players/owl_snow.png","https://twitter.com/SnowOverwatch",,"https://go.twitch.tv/snow_iwnl",,,,,,"Support","Ethiopia","0",NULL,NULL
+"1209","Mistakes","Stanislav Danilov","318","318","0",NULL,NULL,"/pics/players/owl_mistakes.png","https://twitter.com/MistakesOW",,"https://www.twitch.tv/mistakesow",,,,,,"Offense","Russia","1",NULL,NULL
+"1314","Neko",,"318","318","0",NULL,NULL,"/pics/players/owl_neko.png",,,,,,,,,"Support","South Korea","1",NULL,NULL
+"1389","Aimgod",,"318",NULL,"0",NULL,NULL,"/pics/players/aimgod_bos.png",,,,,,,,,"Support","South Korea","0",NULL,NULL
+"1485","Kalios","Shin Woo-yeol","318","318","0",NULL,NULL,"/pics/players/owl_kalios.png",,,"https://www.twitch.tv/sjh1010love",,,,,,"Tank","South Korea","1",NULL,NULL
+"190","Diya",,"328",NULL,"0",NULL,NULL,"/pics/players/owl_diya.png",,,,,,,,,"Offense","China","0",NULL,NULL
+"471","Xushu","Liu Junjie","328",NULL,"0",NULL,NULL,"/pics/players/owl_xushu.png",,,,,,,,,"Tank","China","0",NULL,NULL
+"1078","Sky","He Junjian","328","66","0",NULL,NULL,"/pics/players/sky_shd.png",,,,,,"https://weibo.com/5900811000",,,"Support","China","1",NULL,NULL
+"1086","uNdeAD","Fang Chao",NULL,"66","0",NULL,NULL,"/pics/players/owl_undead.png",,,,,,,,,"Offense","China","0",NULL,NULL
+"1090","mg","Wu Dongjian",NULL,"66","0",NULL,NULL,"/pics/players/owl_mg.png",,,,,,,,,"Tank","China","0",NULL,NULL
+"1100","Roshan","Jing Wenhao","328",NULL,"0",NULL,NULL,"/pics/players/owl_roshan.png",,,,,,,,,"Tank","China","0",NULL,NULL
+"1102","Freefeel","Xu Peixuan","328",NULL,"0",NULL,NULL,"/pics/players/owl_freefeel.png",,,,,,,,,"Support","China","0",NULL,NULL
+"1117","FiveKing","Chen Zhao yu","328","66","0",NULL,NULL,"/pics/players/owl_fiveking.png",,,,,,,,,"Support","China","0",NULL,NULL
+"1143","Daemin","Daemin Kim","328",NULL,"0",NULL,NULL,"/pics/players/daemin_shd.png",,,,,,,,,"Offense","South Korea","1",NULL,NULL
+"1491","Geguri","Seyeon Kim","328",NULL,"0",NULL,NULL,"/pics/players/geguri_owl.png","https://twitter.com/Geguri2",,,,,,,,"Tank","South Korea","1",NULL,NULL
+"1545","Ado","Gihyeon Chon","328",NULL,"0",NULL,NULL,"/pics/players/ado.png",,,,,,,,,"Offense","South Korea","0",NULL,NULL
+"1556","Altering","Cheng Yage","328",NULL,"0",NULL,NULL,"/pics/players/owl_altering.png",,,,,,,,,"Support","China","1",NULL,NULL
+"1661","Fearless","Eui-Seok Lee","328",NULL,"0",NULL,NULL,"/pics/players/fearless.png",,,,,,,,,"Tank","South Korea","1",NULL,NULL
+"37","zunba",,"329","67","0",NULL,NULL,"/pics/players/owl_zunba.png",,,,,,,,,"Tank","South Korea","0",NULL,NULL
+"61","ryujehong",,"329","67","0",NULL,NULL,"/pics/players/owl_ryujehong.png",,,,,,,,,"Support","South Korea","0",NULL,NULL
+"63","tobi",,"329","67","0",NULL,NULL,"/pics/players/owl_tobi.png",,,,,,,,,"Support","South Korea","0",NULL,NULL
+"65","Miro",,"329",NULL,"0",NULL,NULL,"/pics/players/owl_miro.png",,,,,,,,,"Tank","South Korea","0",NULL,NULL
+"72","Gambler","Jin-Woo Heo","329",NULL,"0",NULL,NULL,"/pics/players/gambler_owl.png","https://twitter.com/9ambler","https://www.facebook.com/0207h","https://www.twitch.tv/9ambler","https://www.instagram.com/99ambler",,,,,"Support","South Korea","1",NULL,NULL
+"82","KuKi",,"329",NULL,"0",NULL,NULL,"/pics/players/owl_kuki.png",,,,,,,,,"Tank","South Korea","1",NULL,NULL
+"92","munchkin",,"329","235","0",NULL,NULL,"/pics/players/owl_munchkin.png",,,,,,,,,"Offense","South Korea","0",NULL,NULL
+"629","Fleta",,"329",NULL,"0",NULL,NULL,"/pics/players/owl_fleta.png",,,,,,,,,"Offense","South Korea","0",NULL,NULL
+"1060","Xepher","Koo Jae-mo","329",NULL,"0",NULL,NULL,"/pics/players/owl_xepher.png","https://twitter.com/c9xepheR",,,,,,,,"Tank","South Korea","1",NULL,NULL
+"1150","Gido",,"329",NULL,"0",NULL,NULL,"/pics/players/owl_gido.png",,,,,,,,,"Offense","South Korea","1",NULL,NULL
+"1296","Wekeed","Choi Seok-Woo","329",NULL,"0",NULL,NULL,"/pics/players/owl_wekeed.png",,,,,,,,,"Offense","South Korea","1",NULL,NULL
+"1","Seagull","Brandon Larned","330","4","0",NULL,NULL,"/pics/players/seagull1.png","https://twitter.com/a_seagull",,"https://www.twitch.tv/A_Seagull",,"http://www.youtube.com/channel/UCaFnEJ5tWlK0TO5PWHqr8Hw",,,,"Tank","USA","1",NULL,NULL
+"16","aKm","Dylan Bignet","330","72","0",NULL,NULL,"/pics/players/akm_owl.png","https://twitter.com/DF_aKm",,"https://www.twitch.tv/aKm_TV",,,,,,"Offense","France","1",NULL,NULL
+"17","uNKOE","Benjamin Chevasson","330","72","0",NULL,NULL,"/pics/players/unkoe_dal.png","https://twitter.com/uNKOE","https://www.facebook.com/uNK0E","https://www.twitch.tv/unkoeee",,,,,,"Support","France","1",NULL,NULL
+"20","Taimou","Timo Kettunen","330","71","0",NULL,NULL,"/pics/players/taimou1.png","https://twitter.com/DF_Taimou","http://facebook.com/OFFICIALtaimou","https://www.twitch.tv/taimoutv",,"http://www.youtube.com/taimouu",,"https://discordapp.com/invite/taimou",,"Offense","Finland","0",NULL,NULL
+"22","chipshajen","Sebastian Widlund","330","76","0",NULL,NULL,"/pics/players/chipshajen1.png","https://twitter.com/DF_chips",,"https://www.twitch.tv/chipshajen",,,,,,"Support","Sweden","0",NULL,NULL
+"23","HarryHook","Jonathan Tejedor Rua","330","75","0",NULL,NULL,"/pics/players/harryhook1.png","https://twitter.com/DF_HarryHook",,"https://www.twitch.tv/harryhook",,,,,,"Support","Spain","0",NULL,NULL
+"24","cocco","Christian Jonsson","330",NULL,"0",NULL,NULL,"/pics/players/cocco1.png","https://twitter.com/DF_cocco",,"https://www.twitch.tv/cocco",,,,,,"Tank","Sweden","0",NULL,NULL
+"50","Rascal","Dong-Jun Kim",NULL,NULL,"0",NULL,NULL,"/pics/players/rascal_owl2.png","https://twitter.com/Rascal",,"https://www.twitch.tv/rascal0723",,,,,,"Offense","South Korea","0",NULL,NULL
+"283","Mickie","Pongphop Rattanasangchod","330","79","0",NULL,NULL,"/pics/players/mickie1.png","https://twitter.com/MickiePP","http://facebook.com/MickiePP","https://www.twitch.tv/mickiepp",,"http://www.youtube.com/mickiepp",,,,"Tank","Thailand","0",NULL,NULL
+"330","xQc","Félix Lengyel",NULL,NULL,"0",NULL,NULL,"/pics/players/xqc1.png","https://twitter.com/xQcOW",,"https://www.twitch.tv/xqcow",,"http://www.youtube.com/channel/UCmDTrq0LNgPodDOFZiSbsww",,,,"Tank","Canada","0",NULL,NULL
+"543","Effect","Hwang Hyeon","330",NULL,"0",NULL,NULL,"/pics/players/effect1.png","https://twitter.com/RzEFFECT",,"https://www.twitch.tv/eff2ct",,,,"https://discordapp.com/invite/ePzXwSn",,"Offense","South Korea","0",NULL,NULL
+"1317","OGe","Minseok Son","330",NULL,"0",NULL,NULL,"/pics/players/unknown.JPG","https://twitter.com/OGE_ow","www.facebook.com/people/???/100010282382590","https://www.twitch.tv/oge_ow","https://www.instagram.com/nninse0_k",,,,,"Tank","South Korea","1",NULL,NULL
+"28","ArHaN","WonHyeop Jung","331",NULL,"0",NULL,NULL,"/pics/players/arhanow.jpg",,,,,,,,,"Offense","South Korea","1",NULL,NULL
+"107","coolmatt",,"331",NULL,"0",NULL,NULL,"/pics/players/coolmatt1.png",,,,,,,,,"Tank","USA","0",NULL,NULL
+"110","clockwork",,"331",NULL,"0",NULL,NULL,"/pics/players/clockwork.png",,,,,,,,,"Offense","USA","1",NULL,NULL
+"143","Rawkus",,"331","68","0",NULL,NULL,"/pics/players/rawkus1.png",,,,,,,,,"Support","USA","1",NULL,NULL
+"144","FCTFCTN","Russell Campbell","331",NULL,"0",NULL,NULL,"/pics/players/fctfctn_owl.png","https://twitter.com/FCTFCTN",,"https://www.twitch.tv/factfiction",,,,,,"Tank","USA","1",NULL,NULL
+"165","LiNkzr","Jiri Masalin","331",NULL,"0",NULL,NULL,"/pics/players/linkzr1.png",,,,,,,,,"Offense","Finland","0",NULL,NULL
+"297","Mendokusaii","Lucas Hakansson","331",NULL,"0",NULL,NULL,"/pics/players/mendo1.png","https://twitter.com/Mendokusaii",,,,,,,,"Offense","Sweden","1",NULL,NULL
+"402","Boink",,"331",NULL,"0",NULL,NULL,"/pics/players/boink.png",,,,,,,,,"Support","USA","0",NULL,NULL
+"410","JAKE","Jake Lyon","331","68","0",NULL,NULL,"/pics/players/jake1.png",,,,,,,,,"Offense","USA","0",NULL,NULL
+"488","Spree","Alexandre Vanhomwegen","331","266","0",NULL,NULL,"/pics/players/spree1.png","https://twitter.com/LG_SPREE",,,,,,,,"Tank","Belgium","1",NULL,NULL
+"641","Muma",,"331",NULL,"0",NULL,NULL,"/pics/players/muma.png",,,,,,,,,"Tank","USA","0",NULL,NULL
+"714","Bani",,"331",NULL,"0",NULL,NULL,"/pics/players/bani.png",,,,,,,,,"Support","Canada","0",NULL,NULL
+"56","Birdring",,"332",NULL,"0",NULL,NULL,"/pics/players/owl_birdring.png",,,,,,,,,"Offense","South Korea","0",NULL,NULL
+"374","Woohyal",,NULL,NULL,"0",NULL,NULL,"/pics/players/owl_woohyal.png",,,,,,,,,"Tank","South Korea","0",NULL,NULL
+"551","Nus","Kim Jong-seok","332","30","0",NULL,NULL,"/pics/players/owl_nus.png","https://twitter.com/NUS_OW","http://facebook.com/people/%EA%B9%80%EC%A2%85%EC%84%9D/100005926666709","https://www.twitch.tv/asdzxcl2",,,,,,"Support","South Korea","1",NULL,NULL
+"982","Closer","Jung won sik","332",NULL,"0",NULL,NULL,"/pics/players/owl_closer.png",,,,,,,,,"Support","South Korea","0",NULL,NULL
+"984","TiZi","Janghyun Hwang",NULL,NULL,"0",NULL,NULL,"/pics/players/tizi.png","https://twitter.com/TI_ZZI",,,,,,,,"Tank","South Korea","0",NULL,NULL
+"1119","Fury",,"332",NULL,"0",NULL,NULL,"/pics/players/owl_fury.png",,,,,,,,,"Tank","South Korea","0",NULL,NULL
+"1309","Gesture",,"332",NULL,"0",NULL,NULL,"/pics/players/owl_gesture.png",,,,,,,,,"Tank","South Korea","0",NULL,NULL
+"1310","Profit",,"332",NULL,"0",NULL,NULL,"/pics/players/owl_profit.png",,,,,,,,,"Offense","South Korea","0",NULL,NULL
+"1311","Hooreg",,"16",NULL,"0",NULL,NULL,"/pics/players/owl_hooreg.png",,,,,,,,,"Offense","South Korea","1",NULL,NULL
+"1312","HagoPeun",,NULL,NULL,"0",NULL,NULL,"/pics/players/owl_hagopeun.png",,,,,,,,,"Support","South Korea","0",NULL,NULL
+"1486","Bdosin",,"332",NULL,"0",NULL,NULL,"/pics/players/owl_bdosin.png",,,,,,,,,"Support","South Korea","0",NULL,NULL
+"35","Bunny","Jun-Hyeok Chae","333",NULL,"0",NULL,NULL,"/pics/players/bunny_val.png",,,"https://www.twitch.tv/cownsgur123",,,,,,"Offense","South Korea","0",NULL,NULL
+"103","Custa","Scott Kennedy","333",NULL,"0",NULL,NULL,"/pics/players/custa_val.png","https://twitter.com/custaaOW",,"https://www.twitch.tv/custaa",,,,,,"Support","Australia","0",NULL,NULL
+"115","GrimReality",,NULL,NULL,"0",NULL,NULL,"/pics/players/grimreality1.png","https://twitter.com/IMTGrimreality",,"https://www.twitch.tv/grimrealityow",,,,,,"Offense","USA","0",NULL,NULL
+"118","Agilities",,"333","65","0",NULL,NULL,"/pics/players/agilities.png","https://twitter.com/IMTagilities",,"https://twitch.tv/agilitiess",,,,,,"Offense","Canada","1",NULL,NULL
+"152","SoOn",,"333","72","0",NULL,NULL,"/pics/players/soon1.png","https://twitter.com/Rogue_SoOn",,,,,,,,"Offense","France","0",NULL,NULL
+"166","numlocked",,"333",NULL,"0",NULL,NULL,"/pics/players/numlocked.png",,,,,,,,,"Tank","United Kingdom","1",NULL,NULL
+"428","Finnsi","Finnbjörn Jónasson","333",NULL,"0",NULL,NULL,"/pics/players/finnsi_val.png","https://twitter.com/FinnsiOW",,,,,,,,"Tank","Iceland","1",NULL,NULL
+"511","Verbo","Stefano Disalvo","333",NULL,"0",NULL,NULL,"/pics/players/verbo.png",,,,,,,,,"Support","Canada","1",NULL,NULL
+"531","Kariv",,"333",NULL,"0",NULL,NULL,"/pics/players/kariv.png",,,,,,,,,"Support","South Korea","0",NULL,NULL
+"735","Space","Indy Halpern","333","68","0",NULL,NULL,"/pics/players/space.png",,,,,,,,,"Tank","USA","0",NULL,NULL
+"990","FaTe",,"333",NULL,"0",NULL,NULL,"/pics/players/fate.png",,,,,,,,,"Tank","South Korea","0",NULL,NULL
+"999","envy",,"271",NULL,"0",NULL,NULL,"/pics/players/envy.png",,,,,,,,,"Tank","South Korea","0",NULL,NULL
+"1046","KSF","Kyle Frandanisa","333",NULL,"0",NULL,NULL,"/pics/players/ksf_val.png","https://twitter.com/KSF_OW",,,,,,,,"Offense","USA","1",NULL,NULL
+"98","Surefour",,"334",NULL,"0",NULL,NULL,"/pics/players/surefour1.png",,,,,,,,,"Offense","Canada","0",NULL,NULL
+"524","iRemiix","Luis Galarza Figueroa","334",NULL,"0",NULL,NULL,"/pics/players/iremiix1.png","http://twitter.com/iremiix15",,"http://www.twitch.tv/iremiixz",,,,,,"Tank","Puerto Rico","0",NULL,NULL
+"573","Fissure",,"334",NULL,"0",NULL,NULL,"/pics/players/owl_fissure2.png",,,,,,,,,"Tank","South Korea","1",NULL,NULL
+"624","Shaz","Jonas Suovaara","334",NULL,"0",NULL,NULL,"/pics/players/shaz.png","https://twitter.com/Shaz_OW",,"https://www.twitch.tv/shaz_ow",,,,,,"Support","Finland","0",NULL,NULL
+"632","Hydration","Joao Pedro Goes Telles","334","235","0",NULL,NULL,"/pics/players/hydration1.png","https://twitter.com/Hydration",,"https://www.twitch.tv/the_hydration",,,,,,"Offense","Brazil","1",NULL,NULL
+"718","Bischu","Aaron Kim","334","235","0",NULL,NULL,"/pics/players/bischu1.png","https://twitter.com/BischuGG",,"https://www.twitch.tv/bischulol",,,,,,"Tank","South Korea","0",NULL,NULL
+"738","silkthread",,"334","123","0",NULL,NULL,"/pics/players/silkthread_gla.png",,,,,,,,,"Offense","USA","1",NULL,NULL
+"993","Asher","Choi Joon-Seong","334",NULL,"0",NULL,NULL,"/pics/players/asher1.png",,,,,,,,,"Offense","South Korea","0",NULL,NULL
+"1132","Void","Jun Woo Kang","334",NULL,"0",NULL,NULL,"/pics/players/void_gla.png","https://twitter.com/ow_void",,"https://www.twitch.tv/ow_void",,,,,,"Tank","South Korea","1",NULL,NULL
+"1203","BigG00se","Benjamin Isohanni","334",NULL,"0",NULL,NULL,"/pics/players/biggoose.png","https://twitter.com/BigG00seOW",,,,,,,,"Support","Finland","0",NULL,NULL
+"13","TviQ","Kevyn Lindström","335","76","0",NULL,NULL,"/pics/players/tviq1.png","https://twitter.com/MisfitsTviQuE",,"https://www.twitch.tv/tvique",,,,,,"Offense","Sweden","0",NULL,NULL
+"145","Manneten",,"335","76","0",NULL,NULL,"/pics/players/manneten1.png","https://twitter.com/MisfitsManneten",,"https://t.co/HbNeEbWI4A",,,,,,"Tank","Sweden","0",NULL,NULL
+"155","Zebbosai",,"335","76","0",NULL,NULL,"/pics/players/Zebbosai1.png",,,,,,,,,"Support","Sweden","0",NULL,NULL
+"158","Zuppeh",,"335","71","0",NULL,NULL,"/pics/players/zuppeh.png",,,,,,,,,"Support","Finland","0",NULL,NULL
+"160","zappis","Joonas Alakurtti","335",NULL,"0",NULL,NULL,"/pics/players/zappis_owl.png","https://twitter.com/zappisOW",,"https://www.twitch.tv/zappis","https://www.Instagram.com/zappisow",,,,,"Tank","Finland","1",NULL,NULL
+"424","CWoosH",,"335","76","0",NULL,NULL,"/pics/players/cwoosh.png",,,,,,,,,"Tank","Sweden","0",NULL,NULL
+"429","Logix",,"335","266","0",NULL,NULL,"/pics/players/logix1.png",,,,,,,,,"Offense","Belgium","0",NULL,NULL
+"516","aWesomeGuy","Seong-hun Kim","335",NULL,"0",NULL,NULL,"/pics/players/awesomeguy_fla.png","https://twitter.com/aWesomeGuyOW",,,,,,,,"Tank","South Korea","1",NULL,NULL
+"539","sayaplayer","Jeong-Woo Ha","335",NULL,"0",NULL,NULL,"/pics/players/sayaplyer_fla.png","https://twitter.com/minon501",,,,,,,,"Offense","South Korea","1",NULL,NULL
+"67","MekO","Kim Tae Hong","336",NULL,"0",NULL,NULL,"/pics/players/owl_meko.png","https://twitter.com/MekOppa","https://www.facebook.com/MekOppa/","https://www.twitch.tv/mekoppa","https://www.instagram.com/mekoppa_/","https://www.youtube.com/channel/UCPr6rVtkOHeFVVS2OCDQiEA",,,,"Tank","South Korea","1",NULL,NULL
+"68","Saebyeolbe","Park Jong Yeol","336","67","0",NULL,NULL,"/pics/players/owl_saebyeolbe.png","https://twitter.com/saebyeolbe","https://www.facebook.com/Saebyeolbeow/","https://go.twitch.tv/saebyeolbe","https://www.instagram.com/saebyeolbeow/","https://www.youtube.com/channel/UCMoL0JkY2LpsaT9cUqTwokA",,,,"Offense","South Korea","0",NULL,NULL
+"69","janus","Song Joong Hwa","336",NULL,"0",NULL,NULL,"/pics/players/owl_janus.png","https://twitter.com/januspy_","https://www.facebook.com/januspy/","https://twitch.tv/januspy","https://www.instagram.com/januspy_/","https://www.youtube.com/channel/UCKMqPsNzAfTLMvwvyWckQBw",,,,"Tank","South Korea","0",NULL,NULL
+"520","Pine","Kim Do-hyun","336",NULL,"0",NULL,NULL,"/pics/players/owl_pine.png","https://twitter.com/tf2pine","https://www.facebook.com/tf2pine","https://www.twitch.tv/tf2pine","https://www.instagram.com/tf2pine_/","https://www.youtube.com/owpine",,,,"Offense","South Korea","1",NULL,NULL
+"538","Libero","Kim Hye Sung","336","318","0",NULL,NULL,"/pics/players/owl_libero.png","https://twitter.com/Liberot99","https://www.facebook.com/Liberot99/","https://www.twitch.tv/liberot99","https://www.instagram.com/liberot99/","https://www.youtube.com/channel/UC5ItNT1byUJmE1fHBt9b-wg",,,,"Offense","South Korea","0",NULL,NULL
+"545","Mano","Kim Dong-gyu","336","67","0",NULL,NULL,"/pics/players/owl_mano.png","https://twitter.com/Mano_OWL","https://www.facebook.com/ManoOWL/","https://www.twitch.tv/manoowl","https://www.instagram.com/mano_owl/","https://www.youtube.com/ManoOWL",,,,"Tank","South Korea","0",NULL,NULL
+"1153","ANAMO","Tae-Sung Jung","336","111","0",NULL,NULL,"/pics/players/anamo_nye.png","https://twitter.com/Anamo_ow",,,,,,,,"Support","South Korea","1",NULL,NULL
+"1292","ArK","Hong Yeon-joon","336",NULL,"0",NULL,NULL,"/pics/players/owl_ark.png","https://twitter.com/Arkyjun","https://www.facebook.com/Arkyjun/","https://www.twitch.tv/arkyjun","https://www.instagram.com/arkyjun/","https://www.youtube.com/channel/UCj6PUwTOudSarfc5zUmbPVA",,,,"Support","South Korea","0",NULL,NULL
+"1551","JJoNak","Bang Seong-hyun","336",NULL,"0",NULL,NULL,"/pics/players/owl_jjonak.png","https://twitter.com/JJoNakLove","https://www.facebook.com/JJoNakLove/","https://go.twitch.tv/jjonaklove","https://www.instagram.com/JJoNakLove/","https://www.youtube.com/c/JJoNakLove",,,,"Support","South Korea","0",NULL,NULL
+"26","Dayfly","Jeong-Hwan Park","337",NULL,"0",NULL,NULL,"/pics/players/owl_dayfly.png",,,,,,,,,"Support","South Korea","1",NULL,NULL
+"140","ShaDowBurn","George Gushcha","337","74","0",NULL,NULL,"/pics/players/owl_shadowburn.png","https://twitter.com/FaZeSDBurn",,,,,,,,"Offense","Russia","0",NULL,NULL
+"157","Fragi","Joona Laine","337","71","0",NULL,NULL,"/pics/players/owl_fragi.png",,,,,,,,,"Tank","Finland","0",NULL,NULL
+"219","Joemeister","Joe Gramano","337","65","0",NULL,NULL,"/pics/players/owl_joemeister.png","http://www.twitter.com/JoemeisterOW",,"http://www.twitch.tv/JoemeisterOW",,,,,,"Support","Canada","0",NULL,NULL
+"266","neptuNo",,"337",NULL,"0",NULL,NULL,"/pics/players/owl_neptuno.png",,,,,,,,,"Support","Spain","1",NULL,NULL
+"602","Carpe",,"337",NULL,"0",NULL,NULL,"/pics/players/owl_carpe.png",,,,,,,,,"Offense","South Korea","0",NULL,NULL
+"681","Poko","Gael Gouzerch","337",NULL,"0",NULL,NULL,"/pics/players/owl_poko.png",,,,,,,,,"Tank","France","1",NULL,NULL
+"882","Eqo","Josue Corona","337","265","0",NULL,NULL,"/pics/players/eqo.png","https://twitter.com/Eqo_bot",,"https://www.twitch.tv/eqobot",,,,,,"Offense","Israel","1",NULL,NULL
+"1148","Boombox",,"337","318","0",NULL,NULL,"/pics/players/owl_boombox.png",,,,,,,,,"Support","United Kingdom","0",NULL,NULL
+"1210","snillo","Simon Ekström","337",NULL,"0",NULL,NULL,"/pics/players/snillo.png","https://twitter.com/overwatchsnillo",,"https://www.twitch.tv/snillo_ow",,,,,,"Offense","Sweden","0",NULL,NULL
+"1298","HOTBA",,"337",NULL,"0",NULL,NULL,"/pics/players/owl_hotba.png",,,,,,,,,"Tank","South Korea","1",NULL,NULL
+"1793","SADO","Su-Min Kim","337",NULL,"0",NULL,NULL,"/pics/players/sado_phi.png","https://twitter.com/sado_ow",,,,,,,,"Tank","South Korea","1",NULL,NULL
+"104","iddqd","André Dahlström","338",NULL,"0",NULL,NULL,"/pics/players/iddqd1.png",,,,,,,,,"Offense","Sweden","0",NULL,NULL
+"156","Nevix",,"338","338","0",NULL,NULL,"/pics/players/nevix1.png",,,,,,,,,"Tank","Sweden","1",NULL,NULL
+"299","nomy","David Ramirez","338","338","0",NULL,NULL,"/pics/players/nomy.png",,,,,,,,,"Tank","Mexico","0",NULL,NULL
+"307","dhaK","Daniel Martinez Paz","338",NULL,"0",NULL,NULL,"/pics/players/dhak.png",,,,,,,,,"Support","Spain","0",NULL,NULL
+"311","sinatraa","Jay Won","338",NULL,"0",NULL,NULL,"/pics/players/sinatraa1.png",,,,,,,,,"Offense","USA","1",NULL,NULL
+"522","babybay","Andrej Francisty","338",NULL,"0",NULL,NULL,"/pics/players/babybay.png",,,,,,,,,"Offense","USA","0",NULL,NULL
+"594","super","Matthew DeLisi","338",NULL,"0",NULL,NULL,"/pics/players/super.png",,,,,,,,,"Tank","USA","1",NULL,NULL
+"639","Sleepy","Nikola Andrews","338",NULL,"0",NULL,NULL,"/pics/players/sleepy.png",,,,,,,,,"Support","USA","0",NULL,NULL
+"710","Danteh","Dante Cruz","338",NULL,"0",NULL,NULL,"/pics/players/danteh.png",,,,,,,,,"Offense","USA","0",NULL,NULL
+"894","Moth","Grant Espe","338","318","0",NULL,NULL,"/pics/players/moth.png","https://twitter.com/moth_ow",,"https://www.twitch.tv/moth_ow",,,,,,"Support","USA","1",NULL,NULL
+"977","ChoiHyoBin","Choi Hyo-Bin","338",NULL,"0",NULL,NULL,"/pics/players/choihyobin_sfs.png",,,,,,,,,"Tank","South Korea","1",NULL,NULL
+"992","Architect","Minho Park","338","235","0",NULL,NULL,"/pics/players/architect_sfs.png","https://twitter.com/Shock_Architect",,,,,,,,"Offense","South Korea","1",NULL,NULL
